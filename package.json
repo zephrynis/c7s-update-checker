@@ -1,0 +1,20 @@
+{
+  "name": "c7s-update-checker",
+  "version": "1.0.0",
+  "description": "An update checker for Calagopus Extensions so panels display when there is a new update.",
+  "homepage": "https://github.com/zephrynis/c7s-update-checker#readme",
+  "bugs": {
+    "url": "https://github.com/zephrynis/c7s-update-checker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephrynis/c7s-update-checker.git"
+  },
+  "license": "ISC",
+  "author": "Zephrynis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
