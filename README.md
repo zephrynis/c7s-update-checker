@@ -4,7 +4,7 @@ An update checker for Calagopus Extensions so panels display when there is a new
 
 ## Todo
 
-- [ ] API endpoint for checking for new update
-- [ ] Displaying latest sourceXchange update
+- [x] API endpoint for checking for new update
+- [x] Displaying latest sourceXchange update
 - [ ] Displaying latest BuiltByBit update
 - [ ] Displaying latest GitHub update (when robert decides to improve git support for extensions)
